@@ -1,1 +1,2 @@
 this is  file1
+ligne 2 added
